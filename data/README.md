@@ -12,11 +12,28 @@
 
 ## 命名规范
 
+### 单表数据
+
 ```
 {部门}/
 └── YYYY-MM/
     └── 数据说明.csv
 ```
+
+### 多工作表 Excel（如国际业务部月报）
+
+一表一 CSV，详见各部门 README：
+
+```
+intl-biz/YYYY-MM/
+├── README.md
+├── 汇总表.csv
+├── 1组-陈子凡.csv
+├── 明细表1-业务完成指标.csv
+└── ...
+```
+
+国际业务部工作表对照见 [intl-biz/README.md](intl-biz/README.md)
 
 ## 使用说明
 
