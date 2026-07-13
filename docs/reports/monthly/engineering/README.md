@@ -1,0 +1,7 @@
+# 工程部月报
+
+请在此目录上传历史月报作为风格和分析参照。
+
+命名：`YYYY-MM-工程部月报.md`
+
+董事长审阅精简版见：`docs/reports/briefings/chairman/`
