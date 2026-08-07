@@ -1,0 +1,31 @@
+---
+description: Auto-convert uploaded Office/PDF files with markitdown before analysis
+alwaysApply: true
+---
+
+# Uploaded Office/PDF → markitdown first
+
+When the user uploads or provides files in Word / Excel / PowerPoint / PDF formats, **automatically convert them with `markitdown` to Markdown before reading or analyzing**.
+
+## Trigger formats
+
+- Word: `.doc`, `.docx`
+- Excel: `.xls`, `.xlsx`
+- PowerPoint: `.ppt`, `.pptx`
+- PDF: `.pdf`
+
+Also apply when the user points to such files already on disk (e.g. under uploads or the workspace) and asks for analysis, summarization, extraction, or comparison.
+
+## Required workflow
+
+1. Locate the uploaded/source file(s).
+2. Ensure `markitdown` is available (`pip install 'markitdown[all]'` or at least the needed extras such as `[docx]`, `[pptx]`, `[xlsx]`, `[pdf]` if conversion fails for missing deps).
+3. Convert each file to `.md` (prefer a temp/output dir such as `tmp/markitdown/` or next to the source).
+4. Read the generated Markdown and analyze from that content.
+5. Do **not** rely on raw binary Office/PDF parsing as the primary path when `markitdown` can convert successfully.
+
+## Notes
+
+- If conversion fails, install missing extras and retry once; if still failing, report the error and fall back only as needed.
+- Keep converted `.md` artifacts out of git commits unless the user explicitly asks to keep them.
+- This rule applies in this repository for all chats/agents that load project rules, including new conversations.
