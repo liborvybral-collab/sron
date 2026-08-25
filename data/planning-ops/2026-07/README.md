@@ -14,8 +14,11 @@
 |------|------|
 | `管理层双周例会-简报孙科杰0713.xlsx` | 管理层双周例会简报原件 |
 | `管理层双周例会-简报孙科杰0713.md` | markitdown 转换结果 |
+| `pakistan-monthly/巴基斯坦SECMC铁路装车站项目施工（7）月度报表（曹明刚）.xlsx` | 巴基斯坦SECMC项目7月业财融合施工月度报表原件 |
+| `pakistan-monthly/巴基斯坦SECMC铁路装车站项目施工（7）月度报表（曹明刚）.md` | 同上 Markdown 版（含产值/成本公式回算） |
 
 ## 使用说明
 
 - 董事长汇报版见：`docs/reports/briefings/chairman/2026-07-计划运营部管理层例会-董事长汇报版.md`
 - 可结合 `data/planning-ops/2026-06/` 6月项目执行月报交叉核对
+- 8月现场周报及更新后的【进度】【成本】口径见：`data/planning-ops/2026-08/`

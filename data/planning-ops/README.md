@@ -13,3 +13,9 @@ planning-ops/
 ```
 
 对应成稿月报：`docs/reports/monthly/planning-ops/YYYY-MM-计划运营部月报.md`
+
+现场项目周报按月归档，例如：
+
+- `2026-07/pakistan-monthly/`：巴基斯坦SECMC 7月施工月度报表
+- `2026-08/`：巴基斯坦SECMC 8/17–8/23 现场施工周报（含例会【进度】【成本】口径）
+
