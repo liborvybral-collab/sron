@@ -13,3 +13,5 @@ planning-ops/
 ```
 
 对应成稿月报：`docs/reports/monthly/planning-ops/YYYY-MM-计划运营部月报.md`
+
+2026-08 询盘双周口径：`2026-08/`，成稿见 `docs/presentations/management-biweekly/2026/2026-08-22-询盘情况.md`。

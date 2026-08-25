@@ -17,6 +17,7 @@ management-biweekly/
 | 2026-06-01 | `2026/2026-06-01-经营汇报.md` | `assets/presentations/management-biweekly/2026/公司经营汇报-2026-06-01.pdf` |
 | 2026-06-16 | `2026/2026-06-16-经营汇报.md` | `assets/presentations/management-biweekly/2026/公司经营汇报-2026-06-16.pdf` |
 | 2026-06-29 | `2026/2026-06-29-经营汇报.md` | `assets/presentations/management-biweekly/2026/公司经营汇报-2026-06-29.pdf` |
+| 2026-08-22 | `2026/2026-08-22-询盘情况.md` | 本期仅更新「项目打单-询盘情况」文字口径（8月8日-8月22日，72条） |
 
 ## 说明
 
