@@ -24,3 +24,4 @@
 - `docs/presentations/management-biweekly/2026/2026-08-22-询盘情况.md`
 - `docs/presentations/management-biweekly/2026/2026-08-22-方案设计情况.md`
 - `docs/presentations/management-biweekly/2026/2026-08-22-报价情况.md`
+- `docs/presentations/management-biweekly/2026/2026-08-22-机制实施情况.md`
