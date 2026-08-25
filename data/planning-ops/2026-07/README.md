@@ -18,6 +18,8 @@
 | `pakistan-monthly/巴基斯坦SECMC铁路装车站项目施工（7）月度报表（曹明刚）.md` | 同上 Markdown 版（含产值/成本公式回算） |
 | `mongolia-monthly/MAK2×7000T水泥仓系统项目施工2026年7月度报表（李亚超）.xlsx` | 蒙古MAK2×7000T项目7月业财融合施工月度报表原件 |
 | `mongolia-monthly/MAK2×7000T水泥仓系统项目施工2026年7月度报表（李亚超）.md` | 同上 Markdown 版（含产值/成本公式回算） |
+| `linhuan-monthly/淮北临涣焦化项目施工7月度报表（崔继龙）.xlsx` | 淮北临涣焦化项目7月业财融合施工月度报表原件 |
+| `linhuan-monthly/淮北临涣焦化项目施工7月度报表（崔继龙）.md` | 同上 Markdown 版（含产值/成本公式回算） |
 
 ## 使用说明
 
