@@ -14,4 +14,4 @@ planning-ops/
 
 对应成稿月报：`docs/reports/monthly/planning-ops/YYYY-MM-计划运营部月报.md`
 
-2026-08 询盘、方案设计、报价与机制双周口径：`2026-08/`，成稿见 `docs/presentations/management-biweekly/2026/2026-08-22-询盘情况.md`、`docs/presentations/management-biweekly/2026/2026-08-22-方案设计情况.md`、`docs/presentations/management-biweekly/2026/2026-08-22-报价情况.md`、`docs/presentations/management-biweekly/2026/2026-08-22-机制实施情况.md`。
+2026-08 询盘、方案设计、报价与机制双周口径：`2026-08/`，成稿见 `docs/presentations/management-biweekly/2026/2026-08-22-询盘情况.md`、`docs/presentations/management-biweekly/2026/2026-08-22-方案设计情况.md`、`docs/presentations/management-biweekly/2026/2026-08-22-报价情况.md`、`docs/presentations/management-biweekly/2026/2026-08-22-机制实施情况.md`、`docs/presentations/management-biweekly/2026/2026-08-22-方案任务创建分析.md`。
