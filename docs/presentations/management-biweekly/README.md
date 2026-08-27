@@ -17,6 +17,7 @@ management-biweekly/
 | 2026-06-01 | `2026/2026-06-01-经营汇报.md` | `assets/presentations/management-biweekly/2026/公司经营汇报-2026-06-01.pdf` |
 | 2026-06-16 | `2026/2026-06-16-经营汇报.md` | `assets/presentations/management-biweekly/2026/公司经营汇报-2026-06-16.pdf` |
 | 2026-06-29 | `2026/2026-06-29-经营汇报.md` | `assets/presentations/management-biweekly/2026/公司经营汇报-2026-06-29.pdf` |
+| 2026-08-26 | `2026/2026-08-26-方案任务创建情况.md` | 方案任务创建口径（截至 8 月 26 日） |
 
 ## 说明
 
