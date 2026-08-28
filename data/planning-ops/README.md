@@ -13,3 +13,5 @@ planning-ops/
 ```
 
 对应成稿月报：`docs/reports/monthly/planning-ops/YYYY-MM-计划运营部月报.md`
+
+2026-08 方案任务创建口径：`2026-08/`，成稿见 `docs/presentations/management-biweekly/2026/2026-08-26-方案任务创建情况.md`、`docs/presentations/management-biweekly/2026/2026-08-26-方案报价任务合计.md`。
