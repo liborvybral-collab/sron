@@ -13,4 +13,7 @@
 | `方案任务-20260724-0826-新创建明细.png` | 任务管家导出截图（49 条） |
 | `scheme-tasks-created-20260724-0826.md` | 逐条明细与行业归类 |
 
-对外口径成稿：`docs/presentations/management-biweekly/2026/2026-08-26-方案任务创建情况.md`。
+对外口径成稿：
+
+- `docs/presentations/management-biweekly/2026/2026-08-26-方案任务创建情况.md`
+- `docs/presentations/management-biweekly/2026/2026-08-26-方案报价任务合计.md`（方案 197 + 报价 144 = 341；崔阳 75，占 22%）
