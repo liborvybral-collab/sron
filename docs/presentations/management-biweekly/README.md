@@ -18,6 +18,7 @@ management-biweekly/
 | 2026-06-16 | `2026/2026-06-16-经营汇报.md` | `assets/presentations/management-biweekly/2026/公司经营汇报-2026-06-16.pdf` |
 | 2026-06-29 | `2026/2026-06-29-经营汇报.md` | `assets/presentations/management-biweekly/2026/公司经营汇报-2026-06-29.pdf` |
 | 2026-08-17 | `2026/2026-08-17-方案任务跟进质量.md` | 国际业务部年累计方案任务跟进质量（至 8月17日；0830 崔阳已更新；已剔郭朝伟）。完整分析见 `docs/reports/briefings/business/` |
+| 2026-08-17 | `2026/2026-08-17-国际业务部打单能力.md` | 专项：成色 / 火力 / 客户产出 / 注水 四榜 + 分档。图在 `docs/reports/briefings/business/` |
 
 ## 说明
 
