@@ -13,3 +13,5 @@ planning-ops/
 ```
 
 对应成稿月报：`docs/reports/monthly/planning-ops/YYYY-MM-计划运营部月报.md`
+
+2026年8月方案任务累计创建明细见 `2026-08/`。
